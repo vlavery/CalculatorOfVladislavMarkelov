@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322245001991",
+    "project_id": "calculatorofvladislavmarkelov",
+    "storage_bucket": "calculatorofvladislavmarkelov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322245001991:android:51a6a50896c74622b2bba2",
+        "android_client_info": {
+          "package_name": "com.example.susulator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASHcJtuNkLhHiT93odoUtzGXZRGM4Ujkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
